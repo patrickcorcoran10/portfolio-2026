@@ -9,17 +9,17 @@ const Socials = () => {
       <div className={style.socialsContainer}>
         <ul className={style.socialIconList}>
           <li>
-            <a href="https://github.com/itiskchengs">
+            <a href="https://github.com/patrickcorcoran10">
               <img src={githubImg}  alt="Github Logo"/>
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/kenneth-cheng-783816142/">
+            <a href="https://www.linkedin.com/in/patrick-corcoran-software/">
               <img id={style.linkedin} alt="Linkedin Logo" src={linkedinImg} />
             </a>
           </li>
           <li id={style.socialInstagram}>
-            <a href="https://www.instagram.com/itiskcheng/">
+            <a href="https://www.instagram.com/picsofandbypat/">
               <img src={instagramImg} alt="Instagram Logo" />
             </a>
           </li>
@@ -27,7 +27,7 @@ const Socials = () => {
       </div>
       <div className={style.emailContainer}>
         <div className={style.emailList}>
-          <a href="mailto:itskcheng@gmail.com">itskcheng@gmail.com</a>
+          <a href="mailto:patrickcorcoran10@gmail.com">patrickcorcoran10@gmail.com</a>
         </div>
       </div>
     </div>

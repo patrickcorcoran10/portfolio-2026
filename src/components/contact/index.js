@@ -18,7 +18,7 @@ const Contact = () => {
             don't hesitate to message me. I will try my best to get back to you!
           </p>
           <div className={style.contactButtonContainer}>
-            <a className={style.contactButton} href="mailto:itskcheng@gmail.com">Message Me</a>
+            <a className={style.contactButton} href="mailto:patrickcorcoran10@gmail.com">Message Me</a>
           </div>
         </div>
       </div>

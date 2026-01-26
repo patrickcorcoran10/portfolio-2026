@@ -11,7 +11,7 @@ const About = () => {
             <h3 className={style.smallAboutHeading}>About</h3>
             <hr className={style.smallAboutHeadingLine} />
           </div>
-          <h4 className={style.bigAboutHeading}>Who Is Kenny?</h4>
+          <h4 className={style.bigAboutHeading}>Who Is Pat?</h4>
         </div>
         <div className={style.aboutInformationContainer}>
           <div className={style.aboutInformation}>
@@ -57,10 +57,17 @@ const About = () => {
                 <li>Materialize</li>
                 <li>Heroku</li>
               </ul>
+              <ul className={style.technologyList}>
+                <li>Next.js</li>
+                <li>Tailwind</li>
+                <li>Typescript</li>
+                <li>Jest</li>
+                <li>NPM</li>
+              </ul>
             </div>
           </div>
           <div className={style.aboutImageContainer}>
-            <img src={Profile} alt="Kenny"></img>
+            <img src={Profile} alt="pat"></img>
           </div>
         </div>
       </div>

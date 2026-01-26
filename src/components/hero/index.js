@@ -1,12 +1,12 @@
 import React, { useState, useEffect, useRef } from "react";
 import style from "./style.module.css";
 import wave from "../../assets/img/wave5.svg";
-import me from "../../assets/img/me.png";
+import heroImg from "../../assets/img/corcoran-transparent-hero.png";
 
 const Hero = () => {
   const [letters, setLetters] = useState("");
 
-  const name = "Hi I'm Kenny";
+  const name = "Hi I'm Pat";
   const index = useRef(0);
 
   useEffect(() => {
@@ -15,7 +15,7 @@ const Hero = () => {
       index.current++;
     };
     if (index.current < name.length) {
-      let addChar = setInterval(tick, 400);
+      let addChar = setInterval(tick, 250);
       return () => clearInterval(addChar);
     }
   }, [letters]);
@@ -37,7 +37,7 @@ const Hero = () => {
           </div>
         </div>
         <div className={style.heroImageLogo}>
-          <img id={me} src={me} alt="logo" />
+          <img id={heroImg} src={heroImg} alt="logo" />
         </div>
       
       <div className={style.waveContainer}>

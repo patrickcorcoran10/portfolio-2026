@@ -35,6 +35,6 @@ None
  ## Questions 
  Please find me on GitHub or email me with further questions:
 
- * GitHub: [itiskchengs](https://github.com/itiskchengs/)
+ * GitHub: [patrickcorcoran10](https://github.com/patrickcorcoran10/)
 
- * Email: itskcheng@gmail.com
+ * Email: patrickcorcoran10@gmail.com

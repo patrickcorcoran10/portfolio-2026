@@ -4,7 +4,7 @@ html {
 
 .header {
   padding: 1.5rem 0rem;
-  background: #6c809a;
+  background: #50C878;
 }
 
 .menuBtn {
@@ -24,7 +24,7 @@ html {
   top: 0.5rem;
   width: 2.8rem;
   height: 0.3rem;
-  background: #f4f4f9;
+  background: black;
   transition: all 0.5s ease-in-out;
 }
 
