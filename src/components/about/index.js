@@ -1,5 +1,5 @@
 import style from "./style.module.css";
-import Profile from "../../assets/img/profile-picture.jpg";
+import Profile from "../../assets/img/corcoran-waterbackground.png";
 //import wave from '../../assets/img/wave5.svg';
 
 const About = () => {
@@ -62,7 +62,7 @@ const About = () => {
                 <li>Tailwind</li>
                 <li>Typescript</li>
                 <li>Jest</li>
-                <li>NPM</li>
+                <li>Figma</li>
               </ul>
             </div>
           </div>

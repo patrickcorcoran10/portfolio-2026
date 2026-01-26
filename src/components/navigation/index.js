@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import style from "./style.module.css";
-import logo from "../../assets/img/logo.png";
-import resume from "../../assets/img/Resume.pdf"
+import logo from "../../assets/img/pc-logo.svg";
+import resume from "../../assets/img/pc-resume-2026.pdf"
 
 const Navigation = () => {
   const [toggle, setToggle] = useState(false);
