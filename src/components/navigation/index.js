@@ -31,9 +31,9 @@ const Navigation = () => {
           <li className={`${style.item} ${toggle ? `${style.open}` : null}`}>
             <a href="#about">About</a>
           </li>
-          <li className={`${style.item} ${toggle ? `${style.open}` : null}`}>
+          {/* <li className={`${style.item} ${toggle ? `${style.open}` : null}`}>
             <a href="#projects">Projects</a>
-          </li>
+          </li> */}
           <li className={`${style.item} ${toggle ? `${style.open}` : null}`}>
             <a href="#contact">Contact</a>
           </li>
