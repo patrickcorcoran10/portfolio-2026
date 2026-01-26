@@ -30,11 +30,11 @@ const Hero = () => {
           <div>
             <h2 id={style.heroTextHeadingTwo}>I build things for the web</h2>
           </div>
-          <div className={style.heroCtaBtnContainer}>
+          {/* <div className={style.heroCtaBtnContainer}>
             <a id={style.heroCtaBtn} href="#contact">
               Get In Touch
             </a>
-          </div>
+          </div> */}
         </div>
         <div className={style.heroImageLogo}>
           <img id={heroImg} src={heroImg} alt="logo" />
