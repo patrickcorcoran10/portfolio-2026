@@ -1,25 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.4af1c16d.chunk.css",
-    "main.js": "/static/js/main.b8bf4f74.chunk.js",
-    "main.js.map": "/static/js/main.b8bf4f74.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.27e40066.js",
-    "runtime-main.js.map": "/static/js/runtime-main.27e40066.js.map",
-    "static/js/2.4cce334c.chunk.js": "/static/js/2.4cce334c.chunk.js",
-    "static/js/2.4cce334c.chunk.js.map": "/static/js/2.4cce334c.chunk.js.map",
-    "static/js/3.e7480754.chunk.js": "/static/js/3.e7480754.chunk.js",
-    "static/js/3.e7480754.chunk.js.map": "/static/js/3.e7480754.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.4af1c16d.chunk.css.map": "/static/css/main.4af1c16d.chunk.css.map",
-    "static/js/2.4cce334c.chunk.js.LICENSE.txt": "/static/js/2.4cce334c.chunk.js.LICENSE.txt",
-    "static/media/Resume.9d703716.pdf": "/static/media/Resume.9d703716.pdf",
-    "static/media/profile-picture.5b4760c9.jpg": "/static/media/profile-picture.5b4760c9.jpg",
-    "static/media/wave5.5fa0621e.svg": "/static/media/wave5.5fa0621e.svg"
+    "main.css": "/portfolio-2026/static/css/main.bb75ba75.css",
+    "main.js": "/portfolio-2026/static/js/main.374e59ce.js",
+    "static/js/453.fdc9fe36.chunk.js": "/portfolio-2026/static/js/453.fdc9fe36.chunk.js",
+    "static/media/corcoran-transparent-hero.png": "/portfolio-2026/static/media/corcoran-transparent-hero.e0129ec7aabf0d9a64ca.png",
+    "static/media/corcoran-waterbackground.png": "/portfolio-2026/static/media/corcoran-waterbackground.c7437a0eb72018589830.png",
+    "static/media/pc-resume-2026.pdf": "/portfolio-2026/static/media/pc-resume-2026.3ac1d201f4bc21457eef.pdf",
+    "static/media/instagram.svg": "/portfolio-2026/static/media/instagram.190bbf3dc907c1513fa37f39d2f6c3ee.svg",
+    "static/media/github-logo.svg": "/portfolio-2026/static/media/github-logo.bd46688f4564170c5e582df5e69b107d.svg",
+    "index.html": "/portfolio-2026/index.html",
+    "static/media/linkedin.svg": "/portfolio-2026/static/media/linkedin.0c6208ebaa1787a4205689f395a167bf.svg",
+    "static/media/wave5.svg": "/portfolio-2026/static/media/wave5.5fa0621e4cb13a0d3e13c9ef10e0a73a.svg",
+    "static/media/pc-logo.svg": "/portfolio-2026/static/media/pc-logo.f88336d992d7a4a6a519e92b34c39ea7.svg",
+    "main.bb75ba75.css.map": "/portfolio-2026/static/css/main.bb75ba75.css.map",
+    "main.374e59ce.js.map": "/portfolio-2026/static/js/main.374e59ce.js.map",
+    "453.fdc9fe36.chunk.js.map": "/portfolio-2026/static/js/453.fdc9fe36.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.27e40066.js",
-    "static/js/2.4cce334c.chunk.js",
-    "static/css/main.4af1c16d.chunk.css",
-    "static/js/main.b8bf4f74.chunk.js"
+    "static/css/main.bb75ba75.css",
+    "static/js/main.374e59ce.js"
   ]
 }
