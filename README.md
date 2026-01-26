@@ -6,6 +6,8 @@
  ## Description 
  This is my portfolio that I have created mainly using React and Sass. This portfolio displays information about me, my skills and my projects that I have built and worked on. 
 
+ Link: https://patrickcorcoran10.github.io/portfolio-2026/
+
 ![Preview Image](./src/assets/img/site-image.png)
  
  ## Table of Contents 
