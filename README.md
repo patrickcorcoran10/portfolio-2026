@@ -6,7 +6,7 @@
  ## Description 
  This is my portfolio that I have created mainly using React and Sass. This portfolio displays information about me, my skills and my projects that I have built and worked on. 
 
-![Preview Image](./src/assets/img/portfolio-screenshot.png)
+![Preview Image](./src/assets/img/site-image.png)
  
  ## Table of Contents 
 
