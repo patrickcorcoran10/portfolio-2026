@@ -28,13 +28,14 @@ const About = () => {
                 <li>JavaScript (ES6)</li>
                 <li>React</li>
                 <li>Node.JS</li>
-                <li>MySQL</li>
+                <li>SQL</li>
                 <li>MongoDB</li>
               </ul>
               <ul className={style.technologyList}>
-                <li>Express</li>
-                <li>Sequelize</li>
-                <li>JQuery</li>
+                <li>Next.js</li>
+                <li>Tailwind</li>
+                <li>Typescript</li>
+            
                 <li>CSS3</li>
                 <li>HTML5</li>
               </ul>
@@ -46,9 +47,9 @@ const About = () => {
                 <li>Heroku</li>
               </ul>
               <ul className={style.technologyList}>
-                <li>Next.js</li>
-                <li>Tailwind</li>
-                <li>Typescript</li>
+                <li>Express</li>
+                <li>Sequelize</li>
+                <li>JQuery</li>
                 <li>Jest</li>
                 <li>Figma</li>
               </ul>
