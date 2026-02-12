@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-2026/static/css/main.bb75ba75.css",
+    "main.js": "/portfolio-2026/static/js/main.887b1134.js",
+    "static/js/453.fdc9fe36.chunk.js": "/portfolio-2026/static/js/453.fdc9fe36.chunk.js",
+    "static/media/corcoran-transparent-hero.png": "/portfolio-2026/static/media/corcoran-transparent-hero.e0129ec7aabf0d9a64ca.png",
+    "static/media/corcoran-waterbackground.png": "/portfolio-2026/static/media/corcoran-waterbackground.c7437a0eb72018589830.png",
+    "static/media/pc-resume-2026.pdf": "/portfolio-2026/static/media/pc-resume-2026.3ac1d201f4bc21457eef.pdf",
+    "static/media/instagram.svg": "/portfolio-2026/static/media/instagram.190bbf3dc907c1513fa37f39d2f6c3ee.svg",
+    "static/media/github-logo.svg": "/portfolio-2026/static/media/github-logo.bd46688f4564170c5e582df5e69b107d.svg",
+    "index.html": "/portfolio-2026/index.html",
+    "static/media/linkedin.svg": "/portfolio-2026/static/media/linkedin.0c6208ebaa1787a4205689f395a167bf.svg",
+    "static/media/wave5.svg": "/portfolio-2026/static/media/wave5.5fa0621e4cb13a0d3e13c9ef10e0a73a.svg",
+    "static/media/pc-logo.svg": "/portfolio-2026/static/media/pc-logo.f88336d992d7a4a6a519e92b34c39ea7.svg",
+    "main.bb75ba75.css.map": "/portfolio-2026/static/css/main.bb75ba75.css.map",
+    "main.887b1134.js.map": "/portfolio-2026/static/js/main.887b1134.js.map",
+    "453.fdc9fe36.chunk.js.map": "/portfolio-2026/static/js/453.fdc9fe36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb75ba75.css",
+    "static/js/main.887b1134.js"
+  ]
+}
