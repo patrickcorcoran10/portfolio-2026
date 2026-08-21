@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-2026/static/css/main.f5d98ffa.css",
-    "main.js": "/portfolio-2026/static/js/main.788224f2.js",
+    "main.js": "/portfolio-2026/static/js/main.9c9e47e8.js",
     "static/js/453.fdc9fe36.chunk.js": "/portfolio-2026/static/js/453.fdc9fe36.chunk.js",
     "static/media/corcoran-transparent-hero.png": "/portfolio-2026/static/media/corcoran-transparent-hero.e0129ec7aabf0d9a64ca.png",
     "static/media/corcoran-waterbackground.png": "/portfolio-2026/static/media/corcoran-waterbackground.c7437a0eb72018589830.png",
@@ -13,11 +13,11 @@
     "static/media/wave5.svg": "/portfolio-2026/static/media/wave5.5fa0621e4cb13a0d3e13c9ef10e0a73a.svg",
     "static/media/pc-logo.svg": "/portfolio-2026/static/media/pc-logo.f88336d992d7a4a6a519e92b34c39ea7.svg",
     "main.f5d98ffa.css.map": "/portfolio-2026/static/css/main.f5d98ffa.css.map",
-    "main.788224f2.js.map": "/portfolio-2026/static/js/main.788224f2.js.map",
+    "main.9c9e47e8.js.map": "/portfolio-2026/static/js/main.9c9e47e8.js.map",
     "453.fdc9fe36.chunk.js.map": "/portfolio-2026/static/js/453.fdc9fe36.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5d98ffa.css",
-    "static/js/main.788224f2.js"
+    "static/js/main.9c9e47e8.js"
   ]
 }
