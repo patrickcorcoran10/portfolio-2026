@@ -1,7 +1,7 @@
 export const projectData = [
     {
         id: 1,
-        image: 'tripsight-img',
+        image: '',
         projectTitle: "Discuss",
         projectDescription: "Discuss is a Reddit style application that utilizes next-authentication, NextUi and server actions to search and display threaded conversations between signed-in users on topics create by the users. ",
         projectLanguages: 'Nextjs, Next-auth, Postgres, Prisma, NextUI, Typescript, JavaScript, Tailwind and Zod',
