@@ -1,7 +1,7 @@
 import Navigation from './components/navigation';
 import Hero from './components/hero';
 import About from './components/about';
-// import Project from './components/project';
+import Project from './components/project';
 import Contact from './components/contact';
 import Footer from './components/footer';
 import Socials from './components/socials';
@@ -13,7 +13,7 @@ function App() {
       <Navigation />
       <Hero />
       <About />
-      {/* <Project /> */}
+      <Project />
       <Contact />
       <Socials />
       <Footer />
