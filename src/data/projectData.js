@@ -6,7 +6,7 @@ export const projectData = [
         projectDescription: "Discuss is a Reddit style application that utilizes next-authentication, NextUi and server actions to search and display threaded conversations between signed-in users on topics create by the users. ",
         projectLanguages: 'Nextjs, Next-auth, Postgres, Prisma, NextUI, Typescript, JavaScript, Tailwind and Zod',
         githubLink:'https://github.com/patrickcorcoran10/nextjs-discuss-course-app',
-        deployedLink: 'hhttps://nextjs-discuss-course-app.vercel.app/',
+        deployedLink: 'https://nextjs-discuss-course-app.vercel.app/',
     },
     // {
     //     id: 2,
