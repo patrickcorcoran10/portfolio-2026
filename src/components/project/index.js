@@ -14,8 +14,8 @@ const Project = () => {
                 <p className={style.projectDescription}>{project.projectDescription}</p>
                 <p className={style.projectLanguages}>{project.projectLanguages}</p>
                 <div className={style.projectButtonsContainer}>
-                  <a href={project.githubLink}>Github Link</a>
-                  <a href={project.deployedLink}>Deployed Link</a>
+                  <a href={project.githubLink} rel="noreferrer" target="_blank">Github Link</a>
+                  <a href={project.deployedLink} rel="noreferrer" target="_blank">Deployed Link</a>
                 </div>
               </div>
             </div>
