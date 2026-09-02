@@ -7,7 +7,7 @@ const Project = () => {
         return(
             <div className={style.projectItems} key={index}>
               <div className={style.projectImageContainer}>
-                <img src={`assets/img/${project.image}.png`} alt="" />
+                <img src={project.image} alt="" />
               </div>
               <div className={style.paragraph}>
                 <h3 className={style.projectTitle}>{project.projectTitle}</h3>

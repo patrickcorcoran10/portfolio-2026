@@ -1,7 +1,10 @@
+import discussAppImage from '../assets/img/discuss-app.png';
+import snippetsShotImage from '../assets/img/snippets-shot.png';
+
 export const projectData = [
     {
         id: 1,
-        image: 'discuss-app',
+        image: discussAppImage,
         projectTitle: "Discuss",
         projectDescription: "Discuss is a Reddit style application that utilizes next-authentication, NextUi and server actions to search and display threaded conversations between signed-in users on topics create by the users. ",
         projectLanguages: 'Nextjs, Next-auth, Postgres, Prisma, NextUI, Typescript, JavaScript, Tailwind and Zod',
@@ -10,7 +13,7 @@ export const projectData = [
     },
     {
         id: 2,
-        image: 'snippets-shot',
+        image: snippetsShotImage,
         projectTitle: 'Code Snippet Library',
         projectDescription: 'A lightweight full-stack app for storing, viewing, editing, and managing reusable code snippets. Built with Next.js and Prisma, the app offers a simple dashboard for browsing saved snippets, a dedicated viewing page for each snippet, and a Monaco-powered editor for updating code.',
         projectLanguages: 'Next.js, React, TypeScript, Tailwind CSS, Prisma ORM, PostgreSQL, Neon Serverless Database and Monaco Editor',

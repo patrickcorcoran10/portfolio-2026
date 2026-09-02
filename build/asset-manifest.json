@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio-2026/static/css/main.f5d98ffa.css",
-    "main.js": "/portfolio-2026/static/js/main.13457607.js",
+    "main.js": "/portfolio-2026/static/js/main.bbc32ed2.js",
     "static/js/453.fdc9fe36.chunk.js": "/portfolio-2026/static/js/453.fdc9fe36.chunk.js",
     "static/media/corcoran-transparent-hero.png": "/portfolio-2026/static/media/corcoran-transparent-hero.e0129ec7aabf0d9a64ca.png",
     "static/media/corcoran-waterbackground.png": "/portfolio-2026/static/media/corcoran-waterbackground.c7437a0eb72018589830.png",
+    "static/media/discuss-app.png": "/portfolio-2026/static/media/discuss-app.a46f1d3827d280623fd6.png",
     "static/media/pc-resume-2026.pdf": "/portfolio-2026/static/media/pc-resume-2026.3ac1d201f4bc21457eef.pdf",
+    "static/media/snippets-shot.png": "/portfolio-2026/static/media/snippets-shot.1706440ba6e46929905a.png",
     "static/media/instagram.svg": "/portfolio-2026/static/media/instagram.190bbf3dc907c1513fa37f39d2f6c3ee.svg",
     "static/media/github-logo.svg": "/portfolio-2026/static/media/github-logo.bd46688f4564170c5e582df5e69b107d.svg",
     "index.html": "/portfolio-2026/index.html",
@@ -13,11 +15,11 @@
     "static/media/wave5.svg": "/portfolio-2026/static/media/wave5.5fa0621e4cb13a0d3e13c9ef10e0a73a.svg",
     "static/media/pc-logo.svg": "/portfolio-2026/static/media/pc-logo.f88336d992d7a4a6a519e92b34c39ea7.svg",
     "main.f5d98ffa.css.map": "/portfolio-2026/static/css/main.f5d98ffa.css.map",
-    "main.13457607.js.map": "/portfolio-2026/static/js/main.13457607.js.map",
+    "main.bbc32ed2.js.map": "/portfolio-2026/static/js/main.bbc32ed2.js.map",
     "453.fdc9fe36.chunk.js.map": "/portfolio-2026/static/js/453.fdc9fe36.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5d98ffa.css",
-    "static/js/main.13457607.js"
+    "static/js/main.bbc32ed2.js"
   ]
 }
